@@ -31,7 +31,9 @@ El mismo consisten en cargar nombres de amigos al programa, de los cuales luego 
 :construction: Proyecto en construcción :construction:
 </h4>
 <h2>#características-de-la-aplicación-y-demostración</h2>
+Challenge Amigo Secreto: Es un juego que consiste en cargar nombres de tus amigos y luego realizar un sorteo de forma aleatoria que nos arrojará como resultado el nombre de tu amigo secreto.
 <h2>#acceso-proyecto</h2>
+https://joelmartin73.github.io/challenge-amigo-secreto/
 <h2>#tecnologías-utilizadas</h2>
 HTML - CSS - JAVASCRIPT
 <h2>#desarrolladores-del-proyecto</h2>
